@@ -1,0 +1,193 @@
+.distance-box {
+  padding: 20px;
+  margin: 20px;
+}
+
+
+/* ===== Navbar Custom Color ===== */
+
+/* navbar */
+.navbar-expand-lg {
+    background-color: #91d451;
+    border-color: #E7E7E7;
+}
+/* Title */
+.navbar-expand-lg .navbar-brand {
+    color: 	white;
+}
+.navbar-expand-lg .navbar-brand:hover,
+.navbar-expand-lg .navbar-brand:focus {
+    color: 	white;
+}
+/* Link */
+.navbar-expand-lg .navbar-nav > li > a {
+    color: 	white;
+}
+.navbar-expand-lg .navbar-nav > li > a:hover,
+.navbar-expand-lg .navbar-nav > li > a:focus {
+    color: 	#00FF00;
+}
+
+a.nav-link {
+  color: white;
+}
+.navbar-expand-lg .navbar-nav > .active > a,
+.navbar-expand-lg .navbar-nav > .active > a:hover,
+.navbar-expand-lg .navbar-nav > .active > a:focus {
+    color: 	#00661a;
+    background-color: 	##003300;
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    background-color: #91d451;
+}
+
+a.dropdown-item {
+  color: white;
+}
+
+.navbar-expan-lg .navbar-nav > .nav-item > li,
+.navbar-expan-lg .navbar-nav > .nav-item > li:hover,
+.navbar-expan-lg .navbar-nav > .nav-item > li:focus {
+  background-color: blue;
+}
+
+.navbar-expand-lg .navbar-nav > .open > a,
+.navbar-expand-lg .navbar-nav > .open > a:hover,
+.navbar-expand-lg .navbar-nav > .open > a:focus {
+    color: 	#00661a;
+    background-color: 	#91d451;
+}
+/* Caret */
+.navbar-expand-lg .navbar-nav > .dropdown > a .caret {
+    border-top-color: 	#00661a;
+    border-bottom-color: 	#00661a;
+}
+.navbar-expand-lg .navbar-nav > .dropdown > a:hover .caret,
+.navbar-expand-lg .navbar-nav > .dropdown > a:focus .caret {
+    border-top-color: 	#00661a;
+    border-bottom-color: 	#00661a;
+}
+.navbar-expand-lg .navbar-nav > .open > a .caret,
+.navbar-expand-lg .navbar-nav > .open > a:hover .caret,
+.navbar-expand-lg .navbar-nav > .open > a:focus .caret {
+    border-top-color: 	#00661a;
+    border-bottom-color: 	#00661a;
+}
+
+.navbar-expand-lg .navbar-nav > .active > a, .navbar-expand-lg .navbar-nav > .active > a:hover, .navbar-expand-lg .navbar-nav > .active > a:focus {
+    color: white;
+    background-color: #91d451;
+}
+/* Mobile version */
+.navbar-expand-lg .navbar-toggle {
+    border-color: 	white;
+}
+.navbar-expand-lg .navbar-toggle:hover,
+.navbar-expand-lg .navbar-toggle:focus {
+    background-color: 	#91d451;
+}
+.navbar-expand-lg .navbar-toggle .icon-bar {
+    background-color: 	#003300;
+}
+@media (max-width: 767px) {
+    .navbar-expand-lg .navbar-nav .open .dropdown-menu > li > a {
+        color: 	#003300;
+    }
+    .navbar-expand-lg .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-expand-lg .navbar-nav .open .dropdown-menu > li > a:focus {
+          color: 	#003300;
+    }
+}
+
+
+
+/* =================styling Main Footer======================== */
+
+.footer-main {
+  background-color: green;
+}
+
+.footer-main.h2 {
+  color: white;
+}
+
+/* =============================================================== */
+
+
+.centered {
+  align-content: center;
+  text-align: center;
+}
+
+
+.footer-main {
+
+}
+
+.date-search {
+  background-color: #00cc00;
+  color: white;
+}
+
+.my-icon{
+  line-height:inherit;
+}
+
+.latest-news {
+  border-radius: 20px;
+  background-color: yellow;
+}
+
+.news-box {
+    background-color: #09d852;
+    border-radius: 20px;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+}
+
+.main-footer {
+    padding-top: 20px;
+    background-color: #91d451;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.mini-footer {
+  background-color: #01b262;
+  color: white;
+  min-height: 50px;
+}
+
+.heading-box {
+    background-color: #91d451;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 2%;
+    margin: 20px;
+}
+
+h1, h2, h3, h4, h5, h6, {
+  color: #052e5c;
+}
+
+
+
+/* ========================= */
+/* My Custom HTML color tags */
+/* ============================ */
+
+g {
+  color: green;
+}
+
+r {
+  color: red;
+}
+w {
+  color: white;
+}
